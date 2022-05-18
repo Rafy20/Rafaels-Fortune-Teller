@@ -1,0 +1,38 @@
+body {
+    background: lightblue;
+    color: blue;
+}
+
+.Calculate {
+    width: 200px;
+    height: 50px;
+    color: lightblue;
+    font-size: 30px;
+    background: blue;
+}
+
+input {
+    width: 50%;
+    height: 50%;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+div {
+    border: blue 10px solid;
+    padding: 40px;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+label {
+    font-family: Times New Roman;
+}
